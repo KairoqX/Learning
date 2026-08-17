@@ -11,7 +11,7 @@
 - [x] Watch Chapter 2
 - [x] Practice variables
 - [x] Create first program
-- [ ] Push code to GitHub
+- [x] Push code to GitHub
 
 ### Day 02 — Conditionals
 - [ ] Watch Chapter 3
