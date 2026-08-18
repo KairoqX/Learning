@@ -11,7 +11,7 @@ provid = input('''chose provider:
 
 # print(provid)
 text = name+surname
-provider = ["gamil.com","proton.me","outlook.com","yahoo.mail"]
+provider = ["gamil.com","proton.me","outlook.com","yahoo.com"]
 
 num1 = str(random.randint(0,9))
 num2 = str(random.randint(0,9))
