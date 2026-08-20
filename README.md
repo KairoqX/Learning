@@ -14,7 +14,7 @@
 - [x] Push code to GitHub
 
 ### Day 02 — Conditionals
-- [ ] Watch Chapter 3
+- [x] Watch Chapter 3
 - [ ] Watch Chapter 4
 - [ ] Practice `if / elif / else`
 - [ ] Build a mini project

@@ -41,3 +41,4 @@ else:
 
 email = username+number+provider
 
+print(email)
