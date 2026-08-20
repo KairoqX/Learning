@@ -39,6 +39,6 @@ elif p == "4":
 else:
     print("Please enter valid no.")
 
-email = username+number+provider
+email = username+number+"@"+provider
 
 print(email)
