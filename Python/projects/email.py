@@ -4,12 +4,11 @@ name = input("Enter you name: ")
 surname = input("Enter your surname: ")
 
 p = input('''Choose you Providers:
-            enter 1 for Gmail
-            enter 2 for Outlook
-            enter 3 for Proton
-            enter 4 for Yahoo
-
-        >>> ''')
+enter 1 for Gmail
+enter 2 for Outlook
+enter 3 for Proton
+enter 4 for Yahoo
+>>> ''')
 
 providers = ["gmail.com","outlook.com", "proton.me", "yahoo.com"]
 
@@ -26,19 +25,15 @@ number = num1+num2+num3
 
 if p == "1":
     provider = providers[0]
-
+    print(username+number+"@"+provider)
 elif p == "2":
     provider = providers[1]
-
+    print(username+number+"@"+provider)
 elif p == "3":
     provider = providers[2]
-
+    print(username+number+"@"+provider)
 elif p == "4":
     provider = providers[3]
-
+    print(username+number+"@"+provider)
 else:
     print("Please enter valid no.")
-
-email = username+number+"@"+provider
-
-print(email)
