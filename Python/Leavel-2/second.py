@@ -49,5 +49,5 @@ print(l)
 e = True or False
 print(e)
 
-print(not(false)) # converts true to false and false to true
+print(not(False)) # converts true to false and false to true
 
