@@ -1,12 +1,11 @@
 import random
 
-# getting the number by user
-numu = int(input("Enter a number from 0 to 9: "))
-# genrating number by computer
-numc = int(random.randint(0,9))
+number_user = int(input("Enter your number between 0 to 9: "))
 
-# checking if the number is correct
-if numu == numc:
-    print(f"You are correct the number is {numc}")
+number_computer = random.randint(0,9)
+
+if number_user == number_computer:
+    print(f"You won the number is {number_computer}")
+
 else:
-    print(f"Wrong the correct number is {numc}")
+    print(f"Wront the number is {number_computer}")
