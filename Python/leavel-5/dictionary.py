@@ -8,3 +8,5 @@ print(marks)
 print(type(marks))
 print(marks["Mahiru"])
 print(marks["Marin"])
+
+# its mutable
