@@ -42,7 +42,7 @@ l = 4<=4
 # # # l = 4<6
 # l = 4!=3
 
-print(l)
+print(l)  
 
 # logical operatots
 
