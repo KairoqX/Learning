@@ -1,4 +1,5 @@
-'''num = int(input("Enter the number: "))
+
+num = int(input("enter the number: "))
 
 if(num == 0):
     print("It's a Zero.")
@@ -6,22 +7,14 @@ if(num == 0):
 elif(num>100):
     print("Greater than 100.")
 
-elif(num-num is 0):
-    print("Positive")'''
+elif(str(num).startswith("-")):
+    print("It's a Negative.")
 
-num = input("enter the number: ")
+elif(num+num == num*2) and (num%2 == 0):
+    print("It's a Positive and Even number.")
 
-if(num == "0"):
-    print("Its zero")
-
-elif(num.startswith("-")):
-    print("It's a Negative")
-
-elif(num+num == num*2):
-    print("positive")
-
-elif(num>100):
-    print("Greater than 100.")
+elif(num+num == num*2) and (num%2 != 0):
+    print("It's a Positive and Odd number.")
     
 else:
-    print("Not a number")
+    print("Not a number.")
