@@ -21,4 +21,7 @@ print(num)
 # print(value)
 
 num.remove(4)
-print(num)
+print(num) 
+
+l =['a','b','c','d']
+print(l[0:4])

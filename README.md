@@ -15,7 +15,7 @@
 
 ### Day 02 — Conditionals
 - [x] Watch Chapter 3
-- [ ] Watch Chapter 4
+- [x] Watch Chapter 4
 - [x] Practice `if / elif / else`
 - [x] Build a mini project
 - [x] Push code
