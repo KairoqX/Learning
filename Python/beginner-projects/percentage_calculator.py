@@ -2,7 +2,7 @@ maths = int(input("Maths marks: "))
 cs = int(input("CS marks: "))
 science = int(input("Science marks: "))
 
-mm =int(input("Max marks: "))
+mm =int(input("Max marks(Per subject): "))
 mm3 =mm*3
 total_marks = maths + cs + science
 

@@ -10,11 +10,12 @@ elif(num>100):
 elif(str(num).startswith("-")):
     print("It's a Negative.")
 
-elif(num+num == num*2) and (num%2 == 0):
+elif(num%2 == 0):
     print("It's a Positive and Even number.")
 
-elif(num+num == num*2) and (num%2 != 0):
+elif(num%2 != 0):
     print("It's a Positive and Odd number.")
     
 else:
     print("Not a number.")
+
