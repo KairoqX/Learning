@@ -1,5 +1,6 @@
 from tkinter import *
 from label import label
+from button import button
 
 window = Tk()
 
@@ -12,5 +13,6 @@ window.geometry('1280x720')
 
 
 
+button()
 label(window,icon)
 window.mainloop()
