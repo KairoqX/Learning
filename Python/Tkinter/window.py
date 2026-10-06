@@ -13,6 +13,6 @@ window.geometry('1280x720')
 
 
 
-button()
-label(window,icon)
+button(window)
+# label(window,icon)
 window.mainloop()
