@@ -48,8 +48,8 @@
 
 ## 📊 Progress
 
-**Current Streak:** 🔥 1 Day  
-**Python Progress:** `████░░░░░░` 40%
+**Current Streak:** 🔥 1 Day
+**Python Progress:** `████::::::` 40%
 
 ---
 
@@ -58,9 +58,9 @@
 | Project | Status |
 |---|---|
 | 📧 Email Generator | ✅ Completed |
-| 🧮 Calculator | ⏳ Planned |
-| 🎲 Number Guessing Game | ⏳ Planned |
-| 📝 To-Do App | ⏳ Planned |
+| 🧮 Calculator | ✅ Completed |
+| 🎲 Number Guessing Game | ✅ Completed |
+| 📝 To-Do App | ✅ Completed |
 
 ---
 

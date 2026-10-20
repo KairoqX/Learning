@@ -13,10 +13,11 @@ provid = input('''chose provider:
 text = name+surname
 provider = ["gmail.com","proton.me","outlook.com","yahoo.com"]
 
-num1 = str(random.randint(0,9))
-num2 = str(random.randint(0,9))
-num3 = str(random.randint(0,9))
-num = num1+num2+num3
+num = ""
+
+for i in range(4):
+    a = str(random.randint(0,9))
+    num+=a
 
 if provid == "0":
     providers = provider[0]
