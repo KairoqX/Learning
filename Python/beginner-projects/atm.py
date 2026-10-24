@@ -2,7 +2,7 @@ balance = 0
 state = False
 
 # ATM Functions
-def atm(command):
+def atm():
     global balance, state
     if command == 1:
         print(f"Your balance is ${balance}")
@@ -13,7 +13,7 @@ def atm(command):
         if withdraw > balance >= 0:
             print(f"Insufficient balance you have ${balance}")
         else:
-            n = balance - withdraw
+            balance-= withdraw
             print(f"Successful withdrawal you now have ${balance}")
 
     elif command == 3:
@@ -47,10 +47,10 @@ def login():
 login()
 while state:
     try:
-        global command
+        # global command
         command = int(input("PyATM(type 1 for balance, 2 for widtdraw, 3 for deposit, 4 to exit)" \
         ": "))
-        atm(command)
-    except ValueError:
+        atm()
+    except Exception:
         print("Command not found")
-        atm(command)
+        atm()

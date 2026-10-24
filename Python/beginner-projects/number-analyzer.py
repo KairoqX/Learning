@@ -7,7 +7,7 @@ if(num == 0):
 elif(num>100):
     print("Greater than 100.")
 
-elif(str(num).startswith("-")):
+elif(num < 0):
     print("It's a Negative.")
 
 elif(num%2 == 0):

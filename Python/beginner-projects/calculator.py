@@ -11,7 +11,7 @@ elif y == "*":
 elif y == "/":
     print(x//z)
 elif x or z == 0 and y == "/":
-    print("0")
+    print("Cannot devide by Zero")
     
 else:
     print("invalide")

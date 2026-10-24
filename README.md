@@ -1,43 +1,15 @@
 # 📚 My Learning Journey
 
-> Daily progress tracker for Python, Git, Linux & other things I'm learning.
-
----
-
-## 🗓️ Daily To-Do
-
-### Day 01 — Python Basics
-- [x] Watch Chapter 1
-- [x] Watch Chapter 2
-- [x] Practice variables
-- [x] Create first program
-- [x] Push code to GitHub
-
-### Day 02 — Conditionals
-- [x] Watch Chapter 3
-- [x] Watch Chapter 4
-- [x] Practice `if / elif / else`
-- [x] Build a mini project
-- [x] Push code
-
-### Day 03
-- [ ] Learn today's topic
-- [ ] Practice
-- [ ] Build something
-- [ ] Push to GitHub
-
----
-
 ## 🐍 Python Progress
 
 - [x] Variables & Data Types
 - [x] Input / Output
 - [x] Strings
 - [x] Conditions
-- [ ] Loops
-- [ ] Lists
-- [ ] Dictionaries
-- [ ] Functions
+- [x] Loops
+- [x] Lists
+- [x] Dictionaries
+- [x] Functions
 - [ ] Modules
 - [ ] File Handling
 - [ ] OOP
@@ -48,8 +20,7 @@
 
 ## 📊 Progress
 
-**Current Streak:** 🔥 1 Day
-**Python Progress:** `████::::::` 40%
+**Python Progress:** `████::::` 50%
 
 ---
 
@@ -63,15 +34,7 @@
 | 📝 To-Do App | ✅ Completed |
 
 ---
-
-## 📝 Daily Log
-
-### 2026-08-15
-- Learned Python basics
-- Completed Chapter 4
-- Created my first independent Python program
-- Practiced `random`, lists and conditionals
-
----
+## **C** Progress
+- [x] Variables & Data Types
 
 > **Goal: Learn something every day. Build something every week. 🚀**
